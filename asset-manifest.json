@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5d770ad1.css",
-    "main.js": "./static/js/main.c5e55077.js",
+    "main.js": "./static/js/main.17cd3894.js",
     "static/media/pokejouce.png": "./static/media/pokejouce.fc2968a76a11884fafa2.png",
     "static/media/curiosite.gif": "./static/media/curiosite.fb21d64ae8053f1d090f.gif",
     "static/media/crypto.png": "./static/media/crypto.56aee782f409931c09f8.png",
@@ -22,10 +22,10 @@
     "static/media/js.png": "./static/media/js.e4a6603a50d997ebe438.png",
     "index.html": "./index.html",
     "main.5d770ad1.css.map": "./static/css/main.5d770ad1.css.map",
-    "main.c5e55077.js.map": "./static/js/main.c5e55077.js.map"
+    "main.17cd3894.js.map": "./static/js/main.17cd3894.js.map"
   },
   "entrypoints": [
     "static/css/main.5d770ad1.css",
-    "static/js/main.c5e55077.js"
+    "static/js/main.17cd3894.js"
   ]
 }
